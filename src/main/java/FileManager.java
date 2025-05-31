@@ -10,7 +10,5 @@ public class FileManager {
     private static final Scanner scanner = new Scanner(System.in);
     private static final SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 
-    public static void main(String[] args) {
 
-    }
 }
